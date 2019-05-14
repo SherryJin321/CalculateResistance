@@ -1,0 +1,14 @@
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\bin\Release\CalculateResistance.exe.config
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\bin\Release\CalculateResistance.exe
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\bin\Release\CalculateResistance.pdb
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Release\MainWindow.g.cs
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Release\App.g.cs
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Release\CalculateResistance_MarkupCompile.cache
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Release\CalculateResistance_MarkupCompile.lref
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Release\MainWindow.baml
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Release\CalculateResistance.g.resources
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Release\CalculateResistance.Properties.Resources.resources
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Release\CalculateResistance.csproj.GenerateResource.Cache
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Release\CalculateResistance.csproj.CoreCompileInputs.cache
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Release\CalculateResistance.exe
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Release\CalculateResistance.pdb

@@ -1,0 +1,15 @@
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\bin\Debug\CalculateResistance.exe.config
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\bin\Debug\CalculateResistance.exe
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\bin\Debug\CalculateResistance.pdb
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Debug\CalculateResistance.csprojResolveAssemblyReference.cache
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Debug\MainWindow.g.cs
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Debug\App.g.cs
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Debug\CalculateResistance_MarkupCompile.cache
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Debug\CalculateResistance_MarkupCompile.lref
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Debug\MainWindow.baml
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Debug\CalculateResistance.g.resources
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Debug\CalculateResistance.Properties.Resources.resources
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Debug\CalculateResistance.csproj.GenerateResource.Cache
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Debug\CalculateResistance.csproj.CoreCompileInputs.cache
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Debug\CalculateResistance.exe
+C:\Users\JXY\Source\Repos\CalculateResistance\CalculateResistance\obj\Debug\CalculateResistance.pdb
